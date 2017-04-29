@@ -3,7 +3,7 @@
  */
 public class class08 {
     public static void main(String args[]){
-    //Switch statement
+    //Switch statement demo
     int rating;
     rating=4;
     switch (rating){
