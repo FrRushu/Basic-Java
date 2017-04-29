@@ -1,5 +1,6 @@
 /**
  * Created by Rushu on 4/29/2015.
+ *
  */
 public class class06 {
     public static void main(String args[]){
