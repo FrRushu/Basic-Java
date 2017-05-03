@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * Created by Rushu on 5/3/2015.
- * calculate basic interest calculator
+ * calculate basic interest 
  */
 public class Class13 {
 
